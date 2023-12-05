@@ -1,22 +1,28 @@
 # 🇺🇦 WhyNet Agency
 ## Software development partner for guaranteed delivery
 
-🌟 For more than 8 years, we have successfully delivered 250+ projects for different companies engaged in such industries as:
 
-|• Transportation and travel|• Media and advertising|• Fintech, Banking, Trading|
-|----------|----------|----------|
-| • Marketplaces, Auctions  | • Healthcare, HIPPA-compliant  | • Data Security  |
-| • Education  | • Internal Corporate Systems  | • Social Networks  |
+## 🌟 INDUSTRIES WE INNOVATE
+- TRANSPORTATION AND TRAVEL
+- MEDIA AND ADVERTISING
+- FINTECH, BANKING, TRADING
+- HEALTHCARE, HIPPA-COMPLIANT
+- INTERNAL CORPORATE SYSTEMS
 
 
-## 🚀  Technologies stack
-<p float="left">
-  <img src="https://whynet.com.ua/img/case_web/n-1.jpg" width="300" />
-  <img src="https://whynet.com.ua/img/case_web/n-1.jpg" width="300" /> 
-  <img src="https://whynet.com.ua/img/case_web/n-1.jpg" width="300" />
-</p>
+## 📂 OUR SERVICES
+- **WEB DEVELOPMENT** - *Accelerate your project timelines with our web development services, designed to seamlessly integrate cutting-edge technologies, custom development solutions, and a robust web platform. We specialize in meeting your demanding deadlines with a focus on delivering exceptional web solutions.*
+- **MOBILE APPLICATION DEVELOPMENT** - *Meet your demanding deadlines with our mobile app development services that converge a mobile platform, custom development, and the latest tech.* 
+- **PRODUCT ENGINEERING** - *Use a powerful combination of profound tech expertise, mature, low-risk processes, and proven experience in a variety of business domains to turn your business idea into reality.*
+- **UI/UX DESIGN** - *Our services in software development allow you to create the products as you envisioned it with a mature design team. We rely on established standards and ten-year expertise.*
+- **IT CONSULTING** - *Enlist our top minds to perform a successful digital transformation of your enterprise that goes in line with your business objectives.*
+- **QA & TESTING** - *Automated software testing, established standards, streamlined Q&A testing lifecycle — use our testing services to ensure the smooth operation of your software services.*
 
-## 🚀  Technologies stack
+
+## 💼 CASE STUDIES
+
+
+## 🚀 TECHNOLOGIES STACK
 <p align="left" dir="auto">
   <img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="vscode" width="45" height="45" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" style="max-width: 100%;">
@@ -37,7 +43,16 @@
 
 </p>
 
-## Contact
+## 📋 OUR CLIENTS & TESTIMONIALS
+<p align="left" dir="auto">
+<img src="https://new.whynet.agency/wp-content/uploads/2023/08/case-2.png" width="150" height="150"  style="max-width: 100%;">
+<img src="https://new.whynet.agency/wp-content/uploads/2023/08/case-1.png" width="150" height="150"  style="max-width: 100%;">
+<img src="https://new.whynet.agency/wp-content/uploads/2023/08/case-4.jpg" width="150" height="150"  style="max-width: 100%;">
+<img src="https://new.whynet.agency/wp-content/uploads/2023/08/case-6.png" width="150" height="150"  style="max-width: 100%;">
+<img src="https://new.whynet.agency/wp-content/uploads/2023/08/case-5.png" width="150" height="150"  style="max-width: 100%;">
+<img src="https://new.whynet.agency/wp-content/uploads/2023/08/case-3.png" width="150" height="150"  style="max-width: 100%;">
+</p>
 
+## 📇 OUR CONTACTS
 - Website: [WhyNet](https://en.whynet.com.ua)
 - Email: sales@whynet.com.ua
