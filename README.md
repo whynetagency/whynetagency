@@ -25,7 +25,9 @@
 ## 🚀 TECHNOLOGIES STACK
 <p align="left" dir="auto">
   <img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="vscode" width="45" height="45" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" style="    height: 75px;
+    margin-bottom: 30px;
+    width: 100px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/bd55955f84d6ea390afc5ea84aadbbe6b643ef698bdbb2593bc0fb2246395ae3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7675656a732f7675656a732d6f726967696e616c2d776f72646d61726b2e737667" alt="VueJS" width="45" height="45" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" alt="html" width="45" height="45" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;">
@@ -45,12 +47,12 @@
 
 ## 📋 OUR CLIENTS & TESTIMONIALS
 <p align="left" dir="auto">
-<img src="https://new.whynet.agency/wp-content/uploads/2023/08/case-2.png" width="150" height="150"  style="max-width: 100%;">
-<img src="https://new.whynet.agency/wp-content/uploads/2023/08/case-1.png" width="150" height="150"  style="max-width: 100%;">
-<img src="https://new.whynet.agency/wp-content/uploads/2023/08/case-4.jpg" width="150" height="150"  style="max-width: 100%;">
-<img src="https://new.whynet.agency/wp-content/uploads/2023/08/case-6.png" width="150" height="150"  style="max-width: 100%;">
-<img src="https://new.whynet.agency/wp-content/uploads/2023/08/case-5.png" width="150" height="150"  style="max-width: 100%;">
-<img src="https://new.whynet.agency/wp-content/uploads/2023/08/case-3.png" width="150" height="150"  style="max-width: 100%;">
+<img src="https://new.whynet.agency/wp-content/uploads/2023/08/case-2.png" width="135" height="135"  style="max-width: 100%;">
+<img src="https://new.whynet.agency/wp-content/uploads/2023/08/case-1.png" width="135" height="135"  style="max-width: 100%;">
+<img src="https://new.whynet.agency/wp-content/uploads/2023/08/case-4.jpg" width="135" height="135"  style="max-width: 100%;">
+<img src="https://new.whynet.agency/wp-content/uploads/2023/08/case-6.png" width="135" height="135"  style="max-width: 100%;">
+<img src="https://new.whynet.agency/wp-content/uploads/2023/08/case-5.png" width="135" height="135"  style="max-width: 100%;">
+<img src="https://new.whynet.agency/wp-content/uploads/2023/08/case-3.png" width="135" height="135"  style="max-width: 100%;">
 </p>
 
 ## 📇 OUR CONTACTS
