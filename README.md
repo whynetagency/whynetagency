@@ -20,6 +20,14 @@
 
 
 ## 💼 CASE STUDIES
+<p align="left" dir="auto">
+<img src="https://whynet.agency/wp-content/uploads/2024/01/ovodu_en.jpg" width="135" height="135"  style="max-width: 100%;">
+<img src="https://whynet.agency/wp-content/uploads/2024/01/calidad_en.jpg" width="135" height="135"  style="max-width: 100%;">
+<img src="https://whynet.agency/wp-content/uploads/2024/01/waves-case.png" width="135" height="135"  style="max-width: 100%;">
+<img src="https://whynet.agency/wp-content/uploads/2023/12/adf%D1%8C%D1%88%D1%82.png" width="135" height="135"  style="max-width: 100%;">
+<img src="https://whynet.agency/wp-content/uploads/2023/12/respect-mebel.png" width="135" height="135"  style="max-width: 100%;">
+<img src="https://whynet.agency/wp-content/uploads/2023/12/cyber.png" width="135" height="135"  style="max-width: 100%;">
+</p>
 
 
 ## 🚀 TECHNOLOGIES STACK
@@ -35,12 +43,12 @@
 
 ## 📋 OUR CLIENTS & TESTIMONIALS
 <p align="left" dir="auto">
-<img src="https://whynet.agency/wp-content/uploads/2024/01/ovodu_en.jpg" width="135" height="135"  style="max-width: 100%;">
-<img src="https://whynet.agency/wp-content/uploads/2024/01/calidad_en.jpg" width="135" height="135"  style="max-width: 100%;">
-<img src="https://whynet.agency/wp-content/uploads/2024/01/waves-case.png" width="135" height="135"  style="max-width: 100%;">
-<img src="https://whynet.agency/wp-content/uploads/2023/12/adf%D1%8C%D1%88%D1%82.png" width="135" height="135"  style="max-width: 100%;">
-<img src="https://whynet.agency/wp-content/uploads/2023/12/respect-mebel.png" width="135" height="135"  style="max-width: 100%;">
-<img src="https://whynet.agency/wp-content/uploads/2023/12/cyber.png" width="135" height="135"  style="max-width: 100%;">
+  <img src="https://whynet.agency/wp-content/uploads/2023/08/case-2.png" width="135" height="135"  style="max-width: 100%;">
+  <img src="https://whynet.agency/wp-content/uploads/2023/08/case-1.png" width="135" height="135"  style="max-width: 100%;">
+  <img src="https://whynet.agency/wp-content/uploads/2023/08/case-4.jpg" width="135" height="135"  style="max-width: 100%;">
+  <img src="https://whynet.agency/wp-content/uploads/2023/08/case-6.png" width="135" height="135"  style="max-width: 100%;">
+  <img src="https://whynet.agency/wp-content/uploads/2023/08/case-5.png" width="135" height="135"  style="max-width: 100%;">
+  <img src="https://whynet.agency/wp-content/uploads/2023/08/case-3.png" width="135" height="135"  style="max-width: 100%;">
 </p>
 
 ## 📇 OUR CONTACTS
